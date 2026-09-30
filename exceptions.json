@@ -1,0 +1,9 @@
+[
+  {
+    "principal": "break.glass@state.mo.us",
+    "scope": "/providers/Microsoft.Management/managementGroups/ROOT_MG_ID",
+    "role": "Owner",
+    "reason": "Emergency break-glass account, direct assignment required by design",
+    "expires": null
+  }
+]

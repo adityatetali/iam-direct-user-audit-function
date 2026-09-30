@@ -1,0 +1,7 @@
+azure-functions
+azure-identity
+azure-mgmt-authorization
+azure-mgmt-managementgroups
+azure-mgmt-resource
+azure-data-tables
+requests

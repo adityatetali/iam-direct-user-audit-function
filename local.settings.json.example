@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "MANAGEMENT_GROUP_ID": "your-tenant-root-management-group-id",
+    "TEAMS_WEBHOOK_URL": "https://xxxx.webhook.office.com/webhookb2/..."
+  }
+}
